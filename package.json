@@ -1,0 +1,13 @@
+{
+  "name": "FirstApp",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "1.6.11",
+    "nightmare": "2.10.0",
+    "semantic-ui-css": "2.2.11"
+  }
+}
